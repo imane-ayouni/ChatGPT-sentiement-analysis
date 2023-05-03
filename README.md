@@ -30,3 +30,7 @@ kind of sentences.
 - Torch
 - NLTK
 - SKlearn
+
+
+# Data source
+https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis?fbclid=IwAR1fLCCY9zTI0H9qZaiIISn-sthVEI7gpvh3CMLOj9asiWbEgIPRsbPIGt8
