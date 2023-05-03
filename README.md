@@ -8,20 +8,20 @@ kind of sentences.
 
 # Summary
 
-The dataset
-Converting characters to lower case
-Removing punctuation
-Removing digits
-Tokenizing
-Removing stopwrods
-Removing frequent words
-Stemming
-Bag of words
-Creating train/test loaders
-Building the classifier
-Training and inference
-Trying out the model
-Conclusion
+- The dataset
+- Converting characters to lower case
+- Removing punctuation
+- Removing digits
+- Tokenizing
+- Removing stopwrods
+- Removing frequent words
+- Stemming
+- Bag of words
+- Creating train/test loaders
+- Building the classifier
+- Training and inference
+- Trying out the model
+- Conclusion
 
 # Liraries
 
